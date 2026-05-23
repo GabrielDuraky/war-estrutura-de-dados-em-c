@@ -85,5 +85,4 @@ gcc main.c -o war_novato
 ## Autor
 **Gabriel Moura Batista**
 Estudante de Engenharia de Software - Estácio
-Me acompanhe também:
 [LinkedIn](https://www.linkedin.com/in/gabriel-moura-a77a041b1) | [@itsDuraky](https://x.com/itsDuraky)
