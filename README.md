@@ -84,7 +84,10 @@ gcc main.c -o war_novato
 | Aventureiro | Em andamento | - |
 | Mestre | Pendente | - |
 
+
 ## Autor
 **Gabriel Moura Batista**
 Estudante de Engenharia de Software - Estácio
-[LinkedIn](https://www.linkedin.com/in/gabriel-moura-a77a041b1) | [@itsDuraky](https://x.com/itsDuraky)
+
+Me acompanhe também:
+[LinkedIn](https://www.linkedin.com/in/gabrielduraky) | [@itsDuraky](https://x.com/itsDuraky)
