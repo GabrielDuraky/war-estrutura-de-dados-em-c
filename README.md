@@ -84,7 +84,6 @@ gcc main.c -o war_novato
 | Aventureiro | Em andamento | - |
 | Mestre | Pendente | - |
 
----
 
 ## Autor
 
