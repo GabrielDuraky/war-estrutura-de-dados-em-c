@@ -52,6 +52,7 @@ Implementação do sistema de **missões estratégicas** e verificação de cond
 - Boas práticas de documentação e legibilidade
 
 ## Estrutura do Repositório
+```text
 estrutura-de-dados-war/
 ├── README.md
 ├── nivel_novato/
@@ -62,6 +63,7 @@ estrutura-de-dados-war/
 │   └── main.c
 └── docs/
 └── (documentação adicional)
+```
 
 
 ## Como Executar
