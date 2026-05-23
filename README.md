@@ -87,14 +87,8 @@ gcc main.c -o war_novato
 ---
 
 ## Autor
+**Gabriel Moura Batista**
+Estudante de Engenharia de Software — Estácio
 
-<p>
-  <strong>Gabriel Moura Batista</strong><br>
-  Estudante de Engenharia de Software — Estácio
-</p>
-
-<p>
-  <strong>Me acompanhe também:</strong><br>
-  <a href="https://www.linkedin.com/in/gabrielduraky">LinkedIn</a> &nbsp;|&nbsp; 
-  <a href="https://x.com/itsDuraky">@itsDuraky</a>
-</p>
+Me acompanhe também:
+[LinkedIn](https://www.linkedin.com/in/gabrielduraky) | [itsDuraky](https://x.com/itsDuraky)
