@@ -1,0 +1,16 @@
+# IDE
+.vscode/
+
+# Compilados
+*.o
+*.exe
+a.out
+*.out
+
+# Build
+build/
+bin/
+
+# Debug
+*.dSYM/
+core
